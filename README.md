@@ -1,4 +1,3 @@
-# PRODIGY_SD_01
 # Temperature Conversion Program
 
 This project is part of the Prodigy InfoTech Software Development Internship.
